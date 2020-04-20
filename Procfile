@@ -1,1 +1,1 @@
-worker: gunicorn main:app
+web: gunicorn -w 4 main:app

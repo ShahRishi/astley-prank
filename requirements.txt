@@ -1,5 +1,6 @@
 alabaster==0.7.10
 altgraph==0.17
+anaconda==0.0.1.1
 anaconda-client==1.6.9
 anaconda-navigator==1.7.0
 anaconda-project==0.8.2
